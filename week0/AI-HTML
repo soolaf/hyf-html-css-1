@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>AI</title>
+    </head>
+    <body>
+      
+      <!--don't forget to make an inline style  inside some tags-->
+      
+      <div id="container-div-id">
+        <div id="header-title-div-id">
+          
+        <!--check the css of h1, find a better font family, put a pictur in the header, the h's-->
+          
+  		  <img id="hand-shake-img-id" src="	http://www.chatsworthcommunications.com/wp-content/uploads/2017/08/shutterstock_317361941_artificial_intelligence.jpg" alt="a hand shaking between a man and a robot" width="250">
+  		  <h1 style=" border: outset 7px gray; font-family: serif; font-size: 4em; color: gray; background: darkblue; line-height: 3em; text-align: center; text-shadow: 3px 3px black"><span class="AI-title">A</span>rtificial <span class="AI-title">I</span>ntelligence</h1>
+        </div>
+        <div id="content-div-id">
+          <p style="color: purple">
+            <a href="#dangerous-ai-id" style="margin-right: 30PX">	HOW CAN (AI) BE DANGEROUS?</a>
+            <a href="#top-10-hottest-id" style="margin-right: 30px;">TOP 10 HOTTEST IT TECHNOLOGIES</a>
+            <a href="#recommended-videos-id" style="margin-right:83px">RECOMMENDED REFERENCES VIDEOS</a>
+            <strong>Keep yourself updated</strong>
+            <input type="email" name="email" placeholder="blabla@bla.com">
+            <button type="submit" name="submit">submit</button></p></div>
+        <br>
+        <br>
+        <div id="definition-div-id">
+          <h2 style="font-family:sans-serif;">Definition - What does Artificial Intelligence (AI) mean?</h2>
+          <br>
+          <img style="float:right; margin:15px 15px 15px 30px" src="https://cdn.techopedia.com/images/uploads/dj-human-leisure-activities-music-person.jpg" alt="AI sympolic image" width="700" >
+          
+          <!--make the p below satisfied-->
+          
+          <p class="font-30">
+			Artificial intelligence (AI) is an area of computer science that emphasizes the creation of intelligent <em style="text-decoration: underline;">machines that work and react <strong style="font-family: fantasy;">like humans.</strong></em></p>
+          <br>
+          <hr>
+          <br>
+          <p class="font-30">Some of the activities computers with artificial intelligence are designed for include:</p>
+          <ul class="font-30">
+            <li><a href="#speach-recognition-id">Speech recognition</a></li>
+            <li><a href="#learning-id">Learning</a></li>
+            <li><a href="#planning-id">Planning</a></li>
+            <li><a href="#problem-solving-id">Problem solving</a></li></ul></div>
+        <br>
+        <hr style="width: 1000px">
+        <br>
+        <br>
+        <div id="AI-designations-div-id">
+          <h2 id="speech-recognition-id" class="gray-title">Speech recognition</h2>
+          <br>
+
+			<!-- adjust the font size in p below-->
+          
+          <p class="font-30">
+            <img class="left" src="https://images.techhive.com/images/article/2015/06/speechrec-100594044-primary.idge.jpg" alt="speech recognition" width="500">
+            is a technology that can recognize spoken words, which can then be converted to text. A subset of speech recognition is voice recognition, which is the technology for identifying a person based on their voice.
+            <strong>
+              <span style="background-color:darkblue; color: white">
+                <a target="_blank" style="color: white; text-decoration: none;" href="https://www.facebook.com/">Facebook</a></span>, Amazon, Microsoft, Google </strong>and 
+            <strong> Apple </strong>— five of the world’s top tech companies — are already offering this feature on various devices through services like 
+            <a id="google-a-id" target="_blank" href="https://www.google.nl">
+              <abbr title="one of the best searching engines ever">Google Home</abbr></a>, Amazon Echo and Siri.</p>
+          <br>
+          <br>
+			    <br>
+          <h2 id="learning-id" class="gray-title">Learning</h2>
+          <br>
+          <p class="font-30">
+            <img class="right" src="https://cdn.redshift.autodesk.com/2016/05/Machine-Learning-hero.jpg" alt="Learning machines" width="700">
+				At a very high level, machine learning is the process of teaching a computer system how to make accurate predictions when fed data.
+				Those predictions could be answering whether a piece of fruit in a photo is a banana or an apple, spotting people crossing the road in front of a self-driving car, whether the use of the word book in a sentence relates to a paperback or a hotel reservation, whether an email is spam, or recognizing speech accurately enough to generate captions for a 
+            <a target="_blank" href="https://www.youtube.com/" style="text-decoration: none">
+              <span style="color: white; background: darkred">YouTube</span></a> video.
+				The key difference from traditional computer software is that a human developer hasn't written code that instructs the system how to tell the difference between the banana and the apple.
+				Instead a machine-learning model has been taught how to reliably discriminate between the fruits by being trained on a large amount of data, in this instance likely a huge number of images labelled as containing a banana or an apple.
+            <em>
+              <strong>Data, and lots of it, is the key to making machine learning possible.</strong></em></p>
+          <br>
+          <br>
+          <br>
+          <h2 id="planning-id" class="gray-title">Planning</h2>
+          <br>
+          <p class="font-30">
+            <img class="left" src="http://demand-planning.com/wp-content/uploads/2018/06/AI-demand-planning-e1528714216981.jpg" alt="Learning machines" width="700">
+            It involves choosing a sequence of actions that will (with a high likelihood) transform the state of the world, step by step, so that it will satisfy the goal. The world is typically viewed to consist of atomic facts (state variables), and actions make some facts true and some facts false. In the following we discuss a number of ways of formalizing planning, and show how the planning problem can be solved automatically.
+				 In known environments with available models, planning can be done offline. Solutions can be found and evaluated prior to execution. In dynamically unknown environments, the strategy often needs to be revised online. Models and policies must be adapted. Solutions usually resort to iterative trial and error processes commonly seen in artificial intelligence. These include dynamic programming, reinforcement learning and combinatorial optimization. Languages used to describe planning and scheduling are often called 
+            <a  target="_blank" href="https://en.wikipedia.org/wiki/Action_language">action languages.</a></p>
+          <br>
+          <br>
+          <br>
+          <h2 id="problem-solving-id" class="gray-title">Problem solving</h2>
+          <br>
+          <p class="font-30">
+            <img class="right" src="https://www.channelfutures.com/sites/channelfutures.com/files/styles/article_featured_standard/public/Artificial-Intelligence-Problem-Solver-2018.jpg?itok=h9CEMPNV" alt="thinking robot" width="700">
+            In order to understand how exactly problem solving contributes to intelligence, we need to find out how intelligent species solve problems.
+				  Classical ApproachThe classical approach to solving a problem is pretty simple. Given a problem athand use hit and trial method to check for various solutions to that problem.This hit and trial approach usually works well for trivial problems and is referred toas the classical approach to problem solving.Consider the maze searching problem. The mouse travels though one path andfinds that the path leads to a dead end, it then back tracks somewhat and goesalong some other path and again finds that there is no way to proceed. It goes onperforming such search, trying different solutions to solve the problem until asequence of turns in the maze takes it to the cheese. Hence, of all the solutionsthe mouse tries, the one that reached the cheese was the one that solved theproblem.
+            <a target="_blank" href="http://www.zeepedia.com/read.php?problem_solving_artificial_intelligence&b=2&c=2">read more...</a>
+
+				   <!-- make the a:visited purple--></p></div>
+        <br>
+        <hr>
+        <br>
+        <hr style="width: 1000px">
+        <br>
+        <hr style="width: 500px">
+        <br>
+        
+        <div id="dangerous-div-id" style="padding: 30px">
+          <h2 id="dangerous-AI-id" class="gray-title" style="border: none; text-shadow: 1px 1px #BA4F14">HOW CAN ( 
+            <span style="color: #BA4F14; text-shadow: 1px 2px darkblue; font-weight: bold; font-family: serif; font-size: 1.5em">AI</span>) BE 
+            <span style="text-shadow: 1px 2px red; font-size: 2em">DANGEROUS</span>?</h2>
+
+			<!-- align the pic in the center - fix all the alt in imgs -->
+          
+          <img style="margin: 10px 200px 25px 260px; border: dashed 5px black" src="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/880/cached.offlinehbpl.hbpl.co.uk/news/OTM/AIskull-20180222104516720.jpg" alt="a human skull in a robot hand expressing the imagination of a disasterous future potential" width="800">
+          <p id="p-dangerous-id" class="font-30">
+				Most researchers agree that a superintelligent AI is unlikely to exhibit human emotions like love or hate, and that there is no reason to expect AI to become intentionally benevolent or malevolent. Instead, when considering how AI might become a risk, 
+            <span class="bold-em">experts think two scenarios most likely:</span></p>
+          <table class="font-30">
+            <thead>
+              <tr>
+                <th>1- The AI is programmed to do something devastating:</th>
+                <th>2- The AI is programmed to do something beneficial, but it develops a destructive method for achieving its goal:</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <p class="td-class">- Autonomous weapons are artificial intelligence systems that are programmed to kill. In the hands of the wrong person, these weapons could easily cause mass casualties. Moreover, an AI arms race could inadvertently lead to an AI war that also results in mass casualties. To avoid being thwarted by the enemy, these weapons would be designed to be extremely difficult to simply “turn off,” so humans could plausibly lose control of such a situation. This risk is one that’s present even with narrow AI, but grows as levels of AI intelligence and autonomy increase.</p></td>
+                <td>
+                  <p class="td-class">- This can happen whenever we fail to fully align the AI’s goals with ours, which is strikingly difficult. If you ask an obedient intelligent car to take you to the airport as fast as possible, it might get you there chased by helicopters and covered in vomit, doing not what you wanted but literally what you asked for. If a superintelligent system is tasked with a ambitious geoengineering project, it might wreak havoc with our ecosystem as a side effect, and view human attempts to stop it as a threat to be met.</p></td>
+              </tr>
+            </tbody>
+          </table>
+          <br>
+        </div>
+        <br>
+        <hr>
+        <br>
+        <br>
+        <br>
+        
+        <div id="the-hottest-div-id">
+          <h2 id="top-10-hottest-id">
+            <a target="_blank" href="
+			https://chatbotnewsdaily.com/the-top-10-hottest-artificial-intelligence-ai-technologies-to-look-upon-df6d38b8fc0b">
+			Top 10 hottest Artificial Intelligence (AI) Technologies to look upon</a></h2>
+          <ol class="font-30">
+            <li>Natural Language Generation</li>
+            <li class="silver-background">Speech recognition</li>
+            <li>Machine Learning Platforms</li>
+            <li class="silver-background" >Virtual Agents</li>
+            <li >Decision Management</li>
+            <li class="silver-background">AI-Optimized Hardware</li>
+            <li>Deep Learning Platforms</li>
+            <li class="silver-background">Robotic Process Automation</li>
+            <li>Text Analytics and NLP (Natural Language Processing)</li>
+            <li class="silver-background">Biometrics 
+              <a target="_blank" href="https://chatbotnewsdaily.com/the-top-10-hottest-artificial-intelligence-ai-technologies-to-look-upon-df6d38b8fc0b"> read more..</a></li>
+          </ol>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+        <div id="recommended-a-div-id">
+          <h2 id="recommended-videos-id">RECOMMENDED REFERENCES VIDEOS:</h2>
+          <ul class="font-30">
+            <li>
+              <a target="_blank" href="https://www.ted.com/talks/max_tegmark_how_to_get_empowered_not_overpowered_by_ai">Max Tegmark: How to get empowered, not overpowered, by AI</a></li>
+            <li>
+              <a target="_blank" href="https://www.youtube.com/watch?v=EBK-a94IFHY">
+              Stuart Russell: 3 principles for creating safer AI</a></li>
+            <li>
+              <a target="_blank" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it">
+              Sam Harris: Can we build AI without losing control over it?</a></li>
+            <li>
+              <a target="_blank" href="https://futureoflife.org/bai-videos/">
+              Talks from the Beneficial AI 2017 conference in Asilomar, CA</a></li>
+            <li>
+              <a target="_blank" href="https://www.youtube.com/watch?v=GYQrNfSmQ0M">
+              Stuart Russell – The Long-Term Future of (Artificial) Intelligence</a></li>
+          </ul>
+          <br>
+          <br>
+          <br>
+          <br>
+        </div>
+        <br>
+        <br>
+        <hr style="width: 700px">
+        
+        <div id="footer" style="background-color: darkblue; padding: 20px; border: inset 2px silver">
+          <div id="update-div-id" style="float: left;">
+            <br>
+            <br>
+            <a href="#content-id" style="font: bold 30px monospace; color: skyblue">
+					Keep yourself updated</a>
+            <br>
+            <br>
+            <form style="margin-right: 300px">
+              <input type="email" placeholder="blabla@bla.com" name="email">
+              <button type="submit">Submit</button></form>
+            <br>
+            <br>
+            <br>
+          </div>
+          <div id="survey-div-id" style="font-size: 1.5em; color: skyblue; margin: 30px">
+            <h3>How do you see (AI) ?</h3>
+            <label><input type="checkbox" name="Safe">Safe</label>
+            <label><input type="checkbox" name="DANGEROUS">Dangerous</label></div>
+          <div id="text-area-div-id" style="float:right;">
+            <textarea placeholder="tell us your opinion"></textarea>
+            <button id="submit-id" type="submit">Submit</button>
+          </div>
+        </div>
+        <br>
+        <br>
+        
+        <div id="thanks-div-id">
+          <p style="text-align:center; color:rgb(150, 50, 210); background-color: black; font-size: 2em; border: double 5px silver">-----------THanks to 
+            <a target="_blank" href="https://www.hackyourfuture.net/">
+              <abbr title="The best code school EVER">Hack Your Future </abbr></a>------------------------</p><hr><hr style="width: 1000px"><hr style="width: 500px"><hr style="width: 250px">
+        </div>
+      </div>
+    </body>
+   </html>
