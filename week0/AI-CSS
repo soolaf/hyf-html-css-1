@@ -1,0 +1,166 @@
+<style>
+body {
+  margin: auto;
+  padding: 15px;
+  width: 1400px;
+  background: skyblue;
+  font-family: helvetica , serif;
+  color: darkblue;
+}
+
+h2 {
+  font: italic 2.5em fantasy;
+}
+
+h3 {
+  font: bold 30px monospace;
+}
+
+a {
+  color: blue;
+}
+
+a:hover, a:focus {
+  background: silver;
+  border: dotted 1px black;
+}
+
+hr {
+  border-color: darkblue;
+}
+
+img {
+  border: inset 3px black
+}
+
+ol li{
+  line-height: 1.8em;
+  background: lightgray;
+  width: 1000px;
+  padding: 10px
+}
+
+table th {
+  background-color: silver;
+  padding: 40px;
+}
+
+table td {
+  background-color: lightgray;
+  margin: 100px;
+  padding: 60px;
+}
+
+ul {
+  line-height: 1.8em;
+}
+
+.font-30 {
+  font-size: 30px;
+}
+
+.td-class {
+  overflow: auto;
+  height: 350px;
+}
+
+.AI-title {
+  color: white;
+  text-shadow: 5px 5px rgb(50, 50, 50);
+}
+
+.gray-title {
+  text-shadow: 1px 1px gold;
+  background-color: gray;
+  line-height: 2.5em;
+  text-align: center;
+  border: inset 5px silver;
+}
+
+.silver-background {
+  background-color: silver;
+}
+
+.bold-em {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline #BA4F14;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+#hand-shake-img-id {
+  float: left;
+  position: relative;
+  top: 18px;
+  left: 18px;
+}
+
+#AI-designations-div-id .left {
+  margin:20px 35px 25px 0px;
+}
+
+#AI-designations-div-id .right {
+  margin: 20px 0px 25px 35px;
+}
+
+#AI-designations-div-id .font-30 {
+  line-height: 1.8em;
+}
+
+#dangerous-div-id .font-30 {
+  line-height: 1.8em;
+}
+
+#p-dangerous-id {
+  color: black;
+}
+
+#top-10-hottest-id {
+  text-decoration: underline;
+}
+
+#last-img-id {
+  position: relative;
+  bottom: 70px;
+  left: 700px;
+}
+
+#dangerous-div-id {
+  background-color: gray;
+}
+
+#text-area-id {
+  position: relative;
+  bottom: 80px;
+  right: 40px
+}
+
+#the-hottest-div-id {
+  margin: auto;
+  background: silver;
+  width: 1100px;
+  border: outset 10px #AF523F;
+}
+
+#text-area-div-id {
+  position: relative;
+  top: -100px;
+  right: 80px
+}
+
+#submit-id {
+  position: relative;
+  top: -7px
+}
+
+#thanks-div-id a {
+  color: gold
+}
+</style>
