@@ -81,7 +81,7 @@ p {
 .border {
     border: 5px inset maroon;
     margin: 10px 270px 10px 10px;
-    background: #000 url(imgs/stone.jpg) top left;
+    background: #000 url('imgs/stone.jpg') top left;
     /* background-size: cover; */
     padding: 20px;
     z-index: 2;
